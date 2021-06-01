@@ -1,2 +1,3 @@
 # bangyuanzhu.github.io
-母亲节快乐！
+
+Individual Blog
