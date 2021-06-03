@@ -6,7 +6,8 @@ function setUsername()
     let Username = prompt("I appreciate if you can tell your name before leaving comments")
     if (!Username || Username === null)
     {
-        setUsername();
+        //setUsername();
+        alert("anyway...");
     }
     else
     {
