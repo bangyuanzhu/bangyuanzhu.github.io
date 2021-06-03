@@ -1,5 +1,5 @@
-let myHeading = document.querySelector('#Welcomemessage');
-let myButton = document.querySelector('button');
+let myHeading = document.querySelector("#Welcomemessage");
+let myButton = document.querySelector("button");
 
 function setUsername()
 {
