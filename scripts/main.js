@@ -1,7 +1,7 @@
 let myHeading = document.querySelector("#Welcomemessage");
 let myButton = document.querySelector("button");
 
-function setUsername()
+/*function setUsername()
 {
     let Username = prompt("I appreciate if you can tell your name before leaving comments")
     if (!Username || Username === null)
@@ -30,3 +30,4 @@ myButton.onclick = function()
 {
     setUsername();
 }
+*/
