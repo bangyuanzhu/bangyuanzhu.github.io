@@ -3,9 +3,9 @@ description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
 about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
 location: "Your Region, Country"
 email: your-email@example.com
-baseurl: "/material-theme"
+#baseurl: "/material-theme"
 
-url: "https://bangyuanzhu.github.io/" # replace by your site's url
+url: "https://bangyuanzhu.github.io" # replace by your site's url
 twitter_username: your-name
 github_username:  lukas-h
 author: "Your Name"
