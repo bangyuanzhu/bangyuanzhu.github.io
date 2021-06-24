@@ -1,6 +1,6 @@
-title: "Zhu Bangyuan"
+title: "Home Page"
 description: "My Individual Blog"
-about: "to record ACM training life, personal thoughts"
+about: "to record OI training life & personal thoughts"
 location: "Singapore"
 email: bangyuanzhu@gmail.com
 #baseurl: "/material-theme"
@@ -26,7 +26,7 @@ home_btn: "Home"
 projects_btn: "Projects"
 posts_btn: "Posts"
 imprint_btn: "Imprint"
-name_badge: "an article by"
+name_badge: "created by"
 rss_badge: "Subscribe feed!"
 
 # build settings
