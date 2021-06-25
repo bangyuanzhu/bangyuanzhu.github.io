@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A new version"
-date:   2021-06-24 15:00:00 +0800
+title:  "Extended Euclidean algorithm"
+date:   2021-06-25 16:00:00 +0800
 tags: ['number_theory']
 author: "Zhu Bangyuan"
 ---
