@@ -6,15 +6,16 @@ tags: ['number_theory']
 author: "Zhu Bangyuan"
 ---
 
-# Extended Euclidean algorithm 扩展欧几里得算法
+# Extended Euclidean algorithm <br>
+# 扩展欧几里得算法
 
 My first blog about algorithm :)<br>
 
-We all know about Euclidean algorithm, or 欧几里得算法，又称辗转相除法.<br>
+We all know about Euclidean algorithm, or 欧几里得算法.<br>
 
 Its principle is GCD(x,y) == GCD(x,y-x). This algorithm is so obvious and it is no need to be proved.<br>
 
-To increase its effiency, we usually use Binary algorithm 二进制算法, which keeps removing factor 2:<br>
+To increase its effiency, we usually use Binary algorithm, which keeps removing factor 2:<br>
 
 If x == y, then GCD(x,y), otherwise:<br>
 
@@ -31,4 +32,5 @@ It is proved that it has a solution, also known as Bézout’s identity, or 裴�
 
 The solution is shown below:<br>
 
-Because GCD(a,b) = = GCD(b,a%b), p*+q*b == GCD(a,b) === GCD(b,a%b) == p*b+q*(a%b) == p*b+q*(a-a/b*b) == 
+Because GCD(a,b) = = GCD(b,a%b), <br>
+p*a+q*b == GCD(a,b) === GCD(b,a%b) == p*b+q*(a%b) == p*b+q*(a-a/b*b) == 
