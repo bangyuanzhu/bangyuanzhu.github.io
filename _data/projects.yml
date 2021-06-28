@@ -1,9 +1,3 @@
-- name: project 1
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-- name: project 3
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+- name: Greedy Snake
+  link: "https://github.com/bangyuanzhu/Greedy_Snake"
+  description: "A classic game made by pygame, download its code to play."
