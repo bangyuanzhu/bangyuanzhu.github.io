@@ -17,7 +17,7 @@ Its principle is GCD(x,y) == GCD(x,y-x). This algorithm is so obvious and it is 
 
 To increase its effiency, we usually use Binary algorithm, which keeps removing factor 2:<br>
 
-If x == y, then GCD(x,y), otherwise:<br>
+If x == y, then GCD(x,y) == x, otherwise:<br>
 
 1. x,y are even, GCD(x,y) == 2\*GCD(x/2,y/2)<br>
 2. x,y are odd, GCD(x,y) == GCD(x-y,y)<br>
@@ -26,11 +26,12 @@ If x == y, then GCD(x,y), otherwise:<br>
 
 Extended Euclidean algorithm is that:<br>
 
-When we know about the value of (a,b), we want to find a group of (p,q) which makes  a\*p+b\*q==GCD(a,b) $<br>
+When we know about the value of (a,b), we want to find a group of (p,q) which makes  a\*p+b\*q==GCD(a,b)<br>
 
-It is proved that it has a solution, also known as Bézout’s identity, or 裴蜀定理.
+It is proved by Bézout’s identity, or 裴蜀定理 that it has a solution.<br>
 
 The solution is shown below:<br>
 
 Because GCD(a,b) = = GCD(b,a%b), <br>
+
 p\*a+q\*b == GCD(a,b) === GCD(b,a%b) == p\*b+q\*(a%b) == p\*b+q\*(a-a/b\*b) == 
