@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dedicated to the great, glorious, and correct CPC"
+title:  "Dedicated to the great, glorious, and correct CCP"
 date:   2021-07-01 9:00:00 +0800
 tags: ['thoughts']
 author: "Zhu Bangyuan"
@@ -10,7 +10,7 @@ author: "Zhu Bangyuan"
 
 <br>
 
-都一起，<br>
+大家都一起，<br>
 
 一起将红歌唱响，一起向它表忠心:<br>
 
@@ -26,7 +26,7 @@ author: "Zhu Bangyuan"
 
 互相鼓励道：<br>
 
-"We shall meet in the place where there is no darkness"<br>
+"We shall meet in the place where there is no darkness."<br>
 
 <br>
 
