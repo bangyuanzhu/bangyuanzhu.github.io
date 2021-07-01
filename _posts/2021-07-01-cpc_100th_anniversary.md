@@ -6,14 +6,7 @@ tags: ['thoughts']
 author: "Zhu Bangyuan"
 ---
 
-# Dedicated to the great, glorious, and correct CPC
-
 # 献给伟大光荣正确的它
-
-富田事件的战友，延安整风的亡灵；<br>
-土地改革的富农，三反五反的商人；<br>
-双百方针的右派，三年灾害的饿殍；<br>
-文革时代的老九，八九学潮的学生；<br>
 
 <br>
 
