@@ -6,8 +6,6 @@ tags: ['thoughts']
 author: "Zhu Bangyuan"
 ---
 
-# Finally arrive
-
 The flight was canceled once and once again. <br>
 
 Finally get back to the school. <br>
