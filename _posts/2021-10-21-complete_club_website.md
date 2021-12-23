@@ -14,4 +14,4 @@ This is one way to achieve my life goal: To be unique and outstanding. I still h
 
 To achieve the goal, the requirements are strict: I have to do much better than others to prove that I am really talented. Meanwhile, currently, it is uncomfortable for me if I do something different and others might give me a strange look. I always doubt my choice and become hesitant when this sh*t happens. These are two main things that I need to overcome.<br>
 
-Hope I can make my life meaningful, otherwise, I have no difference with orangutans. <br>
+Hope I can make my life meaningful, otherwise, I have no difference with orangutan. <br>
