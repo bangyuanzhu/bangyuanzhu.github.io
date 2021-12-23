@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "End of Relationship"
+title:  "End of relationship"
 date:   2021-12-31 20:00:00 +0800
 tags: ['thoughts']
 author: "Zhu Bangyuan"
