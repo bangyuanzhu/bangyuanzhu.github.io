@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Complete club Website"
+title:  "Complete club website"
 date:   2021-10-21 01:00:00 +0800
 tags: ['thoughts']
 author: "Zhu Bangyuan"
